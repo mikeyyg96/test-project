@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271321444573",
+    "firebase_url": "https://what-s-poppin-43bda.firebaseio.com",
+    "project_id": "what-s-poppin-43bda",
+    "storage_bucket": "what-s-poppin-43bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271321444573:android:f4ba8f08f8939c85ee2b34",
+        "android_client_info": {
+          "package_name": "com.maginate.whats_poppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271321444573-l6ivjavlk8s11lb3ge5gv01hihm5kh6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDIKMxlC1lr8ZU6OQrD3gXx2HuuBWBeUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271321444573-l6ivjavlk8s11lb3ge5gv01hihm5kh6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
